@@ -1,0 +1,6 @@
+[submodule "smlfmt"]
+	path = smlfmt
+	url = git@github.com:shwestrick/smlfmt.git
+[submodule "sml-buildscripts"]
+	path = sml-buildscripts
+	url = git@github.com:cannam/sml-buildscripts.git
